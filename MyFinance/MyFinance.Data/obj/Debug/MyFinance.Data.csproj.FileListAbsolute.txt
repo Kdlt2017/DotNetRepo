@@ -1,0 +1,12 @@
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.pdb
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.dll
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.pdb
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.dll
+c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.pdb
