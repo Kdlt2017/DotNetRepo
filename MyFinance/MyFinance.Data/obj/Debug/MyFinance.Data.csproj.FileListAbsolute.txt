@@ -15,3 +15,21 @@ C:\Users\pc\Documents\Visual Studio 2015\Projects\MyFinance\MyFinance.Data\obj\D
 C:\Users\pc\Documents\Visual Studio 2015\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.FirstImageMigration.resources
 C:\Users\pc\Documents\Visual Studio 2015\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.SecondImageMigration.resources
 C:\Users\pc\Documents\Visual Studio 2015\Projects\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.ComplexTypeMigration.resources
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll.config
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.dll
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Data.pdb
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.dll
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\bin\Debug\MyFinance.Domain.pdb
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.InitialCreate.resources
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.FirstImageMigration.resources
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.SecondImageMigration.resources
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.ComplexTypeMigration.resources
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.dll
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.pdb
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.AnnotationMigration.resources

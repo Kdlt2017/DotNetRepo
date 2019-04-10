@@ -12,3 +12,17 @@ c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Service\bi
 c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.csprojResolveAssemblyReference.cache
 c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.dll
 c:\users\pc\documents\visual studio 2015\Projects\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.pdb
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Service.dll.config
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Service.dll
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Service.pdb
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Data.dll
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Domain.dll
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Data.pdb
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\bin\Debug\MyFinance.Domain.pdb
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.dll
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Service\obj\Debug\MyFinance.Service.pdb
