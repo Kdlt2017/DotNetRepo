@@ -50,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Configurations\CategoryConfiguration.cs" />
+    <Compile Include="Configurations\ProductConfiguration.cs" />
     <Compile Include="Migrations\201904051548557_InitialCreate.cs" />
     <Compile Include="Migrations\201904051548557_InitialCreate.Designer.cs">
       <DependentUpon>201904051548557_InitialCreate.cs</DependentUpon>
@@ -69,6 +71,10 @@
     <Compile Include="Migrations\201904101029198_AnnotationMigration.cs" />
     <Compile Include="Migrations\201904101029198_AnnotationMigration.Designer.cs">
       <DependentUpon>201904101029198_AnnotationMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904101102580_FluentAPIConfigurationMigration.cs" />
+    <Compile Include="Migrations\201904101102580_FluentAPIConfigurationMigration.Designer.cs">
+      <DependentUpon>201904101102580_FluentAPIConfigurationMigration.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="MyFinanceContext.cs" />
@@ -99,6 +105,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201904101029198_AnnotationMigration.resx">
       <DependentUpon>201904101029198_AnnotationMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904101102580_FluentAPIConfigurationMigration.resx">
+      <DependentUpon>201904101102580_FluentAPIConfigurationMigration.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

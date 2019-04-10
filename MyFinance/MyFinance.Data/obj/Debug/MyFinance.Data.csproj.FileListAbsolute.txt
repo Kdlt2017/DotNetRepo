@@ -33,3 +33,4 @@ C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinan
 C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.dll
 C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.pdb
 C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.AnnotationMigration.resources
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.FluentAPIConfigurationMigration.resources
