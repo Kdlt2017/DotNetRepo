@@ -50,6 +50,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Migrations\201904051548557_InitialCreate.cs" />
+    <Compile Include="Migrations\201904051548557_InitialCreate.Designer.cs">
+      <DependentUpon>201904051548557_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904100840489_FirstImageMigration.cs" />
+    <Compile Include="Migrations\201904100840489_FirstImageMigration.Designer.cs">
+      <DependentUpon>201904100840489_FirstImageMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904100847576_SecondImageMigration.cs" />
+    <Compile Include="Migrations\201904100847576_SecondImageMigration.Designer.cs">
+      <DependentUpon>201904100847576_SecondImageMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904100905547_ComplexTypeMigration.cs" />
+    <Compile Include="Migrations\201904100905547_ComplexTypeMigration.Designer.cs">
+      <DependentUpon>201904100905547_ComplexTypeMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="MyFinanceContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -62,6 +79,20 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201904051548557_InitialCreate.resx">
+      <DependentUpon>201904051548557_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904100840489_FirstImageMigration.resx">
+      <DependentUpon>201904100840489_FirstImageMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904100847576_SecondImageMigration.resx">
+      <DependentUpon>201904100847576_SecondImageMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904100905547_ComplexTypeMigration.resx">
+      <DependentUpon>201904100905547_ComplexTypeMigration.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

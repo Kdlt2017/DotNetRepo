@@ -18,6 +18,7 @@ namespace MyFinance.Console
                 Price = 500,
                 Description = "Nice Product",
                 Quantity = 14,
+                ImageUrl2 = "url",
                 DateProd = new DateTime(2012,12,12)
             };
             MyFinanceContext ctx = new MyFinanceContext();
