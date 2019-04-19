@@ -52,6 +52,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Configurations\CategoryConfiguration.cs" />
     <Compile Include="Configurations\ProductConfiguration.cs" />
+    <Compile Include="CustomConventions\DateTime2Convention.cs" />
     <Compile Include="Migrations\201904051548557_InitialCreate.cs" />
     <Compile Include="Migrations\201904051548557_InitialCreate.Designer.cs">
       <DependentUpon>201904051548557_InitialCreate.cs</DependentUpon>
@@ -75,6 +76,26 @@
     <Compile Include="Migrations\201904101102580_FluentAPIConfigurationMigration.cs" />
     <Compile Include="Migrations\201904101102580_FluentAPIConfigurationMigration.Designer.cs">
       <DependentUpon>201904101102580_FluentAPIConfigurationMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904191334198_ManyToManyMigration.cs" />
+    <Compile Include="Migrations\201904191334198_ManyToManyMigration.Designer.cs">
+      <DependentUpon>201904191334198_ManyToManyMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904191337493_ManyToManyMigration2.cs" />
+    <Compile Include="Migrations\201904191337493_ManyToManyMigration2.Designer.cs">
+      <DependentUpon>201904191337493_ManyToManyMigration2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904191353051_TPHMigration.cs" />
+    <Compile Include="Migrations\201904191353051_TPHMigration.Designer.cs">
+      <DependentUpon>201904191353051_TPHMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904191408151_OneToManyMigration.cs" />
+    <Compile Include="Migrations\201904191408151_OneToManyMigration.Designer.cs">
+      <DependentUpon>201904191408151_OneToManyMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904191421538_DateTime2ConventionMigration.cs" />
+    <Compile Include="Migrations\201904191421538_DateTime2ConventionMigration.Designer.cs">
+      <DependentUpon>201904191421538_DateTime2ConventionMigration.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="MyFinanceContext.cs" />
@@ -108,6 +129,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201904101102580_FluentAPIConfigurationMigration.resx">
       <DependentUpon>201904101102580_FluentAPIConfigurationMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904191334198_ManyToManyMigration.resx">
+      <DependentUpon>201904191334198_ManyToManyMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904191337493_ManyToManyMigration2.resx">
+      <DependentUpon>201904191337493_ManyToManyMigration2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904191353051_TPHMigration.resx">
+      <DependentUpon>201904191353051_TPHMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904191408151_OneToManyMigration.resx">
+      <DependentUpon>201904191408151_OneToManyMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904191421538_DateTime2ConventionMigration.resx">
+      <DependentUpon>201904191421538_DateTime2ConventionMigration.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,4 +1,5 @@
 ﻿using MyFinance.Data.Configurations;
+using MyFinance.Data.CustomConventions;
 using MyFinance.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -24,6 +25,8 @@ namespace MyFinance.Data
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Configurations.Add(new CategoryConfiguration());
+            modelBuilder.Configurations.Add(new ProductConfiguration());
+            modelBuilder.Conventions.Add(new DateTime2Convention());
         }
     }
     

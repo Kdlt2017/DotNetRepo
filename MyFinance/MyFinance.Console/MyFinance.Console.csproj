@@ -60,10 +60,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyFinance.Data\MyFinance.Data.csproj">
-      <Project>{d9a5ef88-0d3d-4314-a540-8f417fcef2c3}</Project>
-      <Name>MyFinance.Data</Name>
-    </ProjectReference>
     <ProjectReference Include="..\MyFinance.Domain\MyFinance.Domain.csproj">
       <Project>{2cc93524-34fd-4e4b-a010-256c37554de5}</Project>
       <Name>MyFinance.Domain</Name>

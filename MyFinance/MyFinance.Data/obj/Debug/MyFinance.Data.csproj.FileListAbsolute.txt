@@ -34,3 +34,8 @@ C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinan
 C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.pdb
 C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.AnnotationMigration.resources
 C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.FluentAPIConfigurationMigration.resources
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.ManyToManyMigration.resources
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.ManyToManyMigration2.resources
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.TPHMigration.resources
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.OneToManyMigration.resources
+C:\Users\pc\Desktop\ESPRIT\4NIDS2\Semester 2\DotNet\DotNetRepo\MyFinance\MyFinance.Data\obj\Debug\MyFinance.Data.Migrations.DateTime2ConventionMigration.resources
