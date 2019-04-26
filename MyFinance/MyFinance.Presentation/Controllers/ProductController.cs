@@ -21,7 +21,20 @@ namespace MyFinance.Presentation.Controllers
         // GET: Product
         public ActionResult Index()
         {
-            return View();
+            List<ProductVM> ListProd = new List<ProductVM>();
+            foreach (Product pr in MyService.ListProducts())
+            {
+                ListProd.Add(new ProductVM() {
+                    DateProd = pr.DateProd,
+                    Description= pr.Description,
+                    ImageUrl2 = pr.ImageUrl2,
+                    Name = pr.Name,
+                    Price = pr.Price,
+                    Quantity = pr.Quantity
+                });
+            }
+            
+            return View(ListProd);
         }
 
         // GET: Product/Details/5

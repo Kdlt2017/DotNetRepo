@@ -20,5 +20,10 @@ namespace MyFinance.Service
             ctx.Products.Add(prod);
             ctx.SaveChanges();
         }
+
+        public IEnumerable<Product> ListProducts()
+        {
+            return ctx.Products.AsEnumerable();
+        }
     }
 }

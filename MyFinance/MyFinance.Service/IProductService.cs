@@ -10,5 +10,6 @@ namespace MyFinance.Service
    public interface IProductService
     {
         void AddProduct(Product prod);
+        IEnumerable<Product> ListProducts();
     }
 }
