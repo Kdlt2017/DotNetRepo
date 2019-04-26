@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFinance.Data", "MyFinance
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFinance.Console", "MyFinance.Console\MyFinance.Console.csproj", "{55774011-B41A-4368-9D45-2F39F5E19CF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFinance.Presentation", "MyFinance.Presentation\MyFinance.Presentation.csproj", "{C63B8113-3870-4644-B124-649AF61C5E91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{55774011-B41A-4368-9D45-2F39F5E19CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55774011-B41A-4368-9D45-2F39F5E19CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55774011-B41A-4368-9D45-2F39F5E19CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63B8113-3870-4644-B124-649AF61C5E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63B8113-3870-4644-B124-649AF61C5E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63B8113-3870-4644-B124-649AF61C5E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63B8113-3870-4644-B124-649AF61C5E91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
